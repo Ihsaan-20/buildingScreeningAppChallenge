@@ -1,0 +1,1 @@
+this web page is base on mobile screen, so for good experience go to "inspect mode" and Toggle Device or press CTRL+SHIFT+M

@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #eff0f1;
+}
+.question .btn {
+    width: 100%;
+    display: block;
+  }
+  
+  .bottom-question {
+      position: fixed;
+      bottom: 31px;
+      width: 371px;
+      max-width: 80%;
+  }
+  .bottom-question .btn:nth-child(1){
+    margin-bottom: 1rem;;
+  }
+  
+  .question .row {
+    display: none;
+  }
+  .question .active {
+    display: block;
+  }
